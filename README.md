@@ -10,9 +10,9 @@ This is a simple **Counter App** built with **React**, **Redux Toolkit**, and **
 * 🎨 Styled with Tailwind CSS
 * ⚛️ Uses Redux Toolkit for state management
 
-## 📸 Demo
+## 📸 SS
 
-![Counter App Demo](https://via.placeholder.com/600x300.png?text=Counter+App+Demo)
+![Counter App Demo](src/assets/image.png)
 
 ## 🛠️ Tech Stack
 
