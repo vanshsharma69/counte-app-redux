@@ -1,7 +1,3 @@
-Here’s a clean and clear `README.md` for your React + Redux Counter App, including the new **Reset** button functionality:
-
----
-
 # 🧮 React Redux Counter App
 
 This is a simple **Counter App** built with **React**, **Redux Toolkit**, and **Tailwind CSS**. It features increment, decrement, and reset buttons with clean styling and state management using Redux.
